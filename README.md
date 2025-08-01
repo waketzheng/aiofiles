@@ -4,7 +4,7 @@
 [![Build](https://github.com/Tinche/aiofiles/workflows/CI/badge.svg)](https://github.com/Tinche/aiofiles/actions)
 [![Coverage](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/Tinche/882f02e3df32136c847ba90d2688f06e/raw/covbadge.json)](https://github.com/Tinche/aiofiles/actions/workflows/main.yml)
 [![Supported Python versions](https://img.shields.io/pypi/pyversions/aiofiles.svg)](https://github.com/Tinche/aiofiles)
-[![Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 
 **aiofiles** is an Apache2 licensed library, written in Python, for handling local
 disk files in asyncio applications.
